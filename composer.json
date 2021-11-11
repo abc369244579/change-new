@@ -1,0 +1,19 @@
+{
+    "name": "change/tool",
+    "description": "昌的工具包",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Change\\Tools\\": "src/Change/Tools"
+        }
+    },
+    "authors": [
+        {
+            "name": "卢景昌",
+            "email": "lujingchang@sp.cc"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
